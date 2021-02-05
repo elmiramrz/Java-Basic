@@ -1,14 +1,5 @@
 
-/**********************************************
-Workshop #1
-Course:JAC444 - Winter2021
-Last Name:Elmira 
-First Name:Mirza
-ID:130828197
-Section:NBB
-This assignment represents my own work in accordance with Seneca Academic Policy. Signature
-Date:<submission date>
-**********************************************/
+
 import java.util.Random;
 public class Dice {
 
