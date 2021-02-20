@@ -1,14 +1,4 @@
-//**********************************************
-//Workshop #2
-//Course:<subject type> - Semester
-//Last Name:<Mirza>
-//First Name:<Elmira>
-//ID:<130828197>
-//Section:<NBB>
-//This assignment represents my own work in accordance with Seneca Academic Policy.
-//Signature
-//Date:<15-02-2021>
-//**********************************************//
+
 import java.util.Scanner;
 
 public class taxCalculation {
